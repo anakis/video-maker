@@ -4,8 +4,5 @@
   "main": "index.js",
   "repository": "https://github.com/anakis/video-maker.git",
   "author": "Thiago Nascimento <thiag.g3@gmail.com>",
-  "license": "MIT",
-  "dependencies": {
-    "readline-sync": "^1.4.9"
-  }
+  "license": "MIT"
 }
